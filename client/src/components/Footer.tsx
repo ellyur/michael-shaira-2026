@@ -41,7 +41,7 @@ const Footer = () => {
                 Shaira
               </h2>
               <p className="text-foreground text-lg">
-                Saturday, February 21, 2026 • Minor Basilica and Parish of St. John the Baptist, Taytay, Rizal
+                Saturday, February 21, 2026 • Minor Basilica and Parish of St. John the Baptist, Tayabas, Quezon
               </p>
             </div>
 
