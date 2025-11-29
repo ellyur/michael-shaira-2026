@@ -14,7 +14,7 @@ const prenup7 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386109/p
 const prenup9 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386112/prenup9_rfdjsb.jpg';
 const prenup10 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386113/prenup11_c3vupt.jpg';
 const prenup11 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386113/prenup12_sqqrhb.jpg';
-const prenup12 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386114/prenup13_u4tdvd.jpg';
+const prenup12 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386108/prenup3_cuocwg.jpg';
 const prenup13 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386115/prenup14_wbiini.jpg';
 
 const MemorableMomentsSection = () => {
