@@ -12,7 +12,7 @@ const VenueSection = () => {
     {
       title: 'Ceremony',
       name: 'Minor Basilica and Parish of St. John the Baptist',
-      address: 'Tayabas City, Quezon',
+      address: 'Taytay, Rizal',
       image: ceremonyImage,
       mapUrl: 'https://maps.app.goo.gl/VGzPxW7kFftwXbYM8',
       mapEmbed: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15445.974039610248!2d121.13235499999999!3d14.570932000000003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c773bce84a39%3A0x5f601b4140fb52e1!2sMinor%20Basilica%20and%20Parish%20of%20St.%20John%20the%20Baptist-%20Taytay%2C%20Rizal%20(Diocese%20of%20Antipolo)!5e0!3m2!1sen!2sus!4v1764391493423!5m2!1sen!2sus',
