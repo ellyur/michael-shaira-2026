@@ -15,6 +15,11 @@ const FAQSection = () => {
 
   const faqs = [
     {
+      question: "Do we really need to RSVP?",
+      icon: MessageCircle,
+      answer: "Yes! To make sure you are included on our final guest list, please confirm your attendance on or before December 30, 2025"
+    },
+    {
       question: "What time should I arrive?",
       icon: Clock,
       answer: "Help us get the party started as scheduled! We recommend that you arrive an hour or 30 mins before the start of the ceremony to make sure everyone is seated on time. We encourage you to consider the travel time and traffic going to the venue."

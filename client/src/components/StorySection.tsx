@@ -105,7 +105,7 @@ const StorySection = () => {
                 Soon after, life brought its first big test. On August 27, 2016—Shaira's birthday—Michael had to leave for work as a seafarer.
               </p>
               <p>
-                While Shaira continued teaching at Pasay Science, Michael journeyed across oceans and foreign shores. What followed were five contracts of long-distance love—months apart, tearful goodbyes, heartfelt messages, late-night video calls, and days marked by longing and faith.
+                While Shaira continued teaching, Michael journeyed across oceans and foreign shores. What followed were five contracts of long-distance love—months apart, tearful goodbyes, heartfelt messages, late-night video calls, and days marked by longing and faith.
               </p>
               <p>
                 It wasn't easy—may mga gabing umiiyak, may mga araw na sobrang miss nila ang isa't isa—but their love remained steady. The distance didn't weaken them; it deepened their trust, strengthened their patience, and proved how much they were willing to fight for each other.
