@@ -90,7 +90,7 @@ const RusticInvitationReveal = ({ animationsEnabled }: RusticInvitationRevealPro
               className="text-5xl md:text-6xl text-primary relative block"
               style={{ fontFamily: 'Boska, serif', fontWeight: 300 }}
             >
-              You're Invited
+              You're invited
               {/* Subtle underline accent */}
               <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-32 h-0.5 bg-gradient-to-r from-transparent via-primary/40 to-transparent" />
             </span>
@@ -100,7 +100,7 @@ const RusticInvitationReveal = ({ animationsEnabled }: RusticInvitationRevealPro
             <p 
               className="text-lg md:text-xl text-gray-700 leading-relaxed max-w-xl mx-auto font-light font-satoshi"
             >
-              Come witness the moment we tie the knot and start our greatest adventure together
+              Celebrate with us as two hearts, once oceans apart, finally come home to each other
             </p>
 
             {/* Stylized divider */}
@@ -111,8 +111,8 @@ const RusticInvitationReveal = ({ animationsEnabled }: RusticInvitationRevealPro
             </div>
 
             <div className="text-base md:text-lg text-gray-600 italic font-satoshi space-y-2">
-              <p>with love, laughter,</p>
-              <p>and a lifetime of memories</p>
+              <p>With love strengthened by distance</p>
+              <p>and a lifetime waiting ahead</p>
             </div>
 
             {/* Modern Hearts decoration */}
