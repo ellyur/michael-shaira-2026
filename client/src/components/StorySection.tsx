@@ -51,6 +51,12 @@ const StorySection = () => {
                 What started as a casual chat soon turned into something magical. From constant conversations to kilig exchanges, from calling him "prinsipe" to "baby," a friendship slowly blossomed into a love that felt beautifully inevitable.
               </p>
             </div>
+            <img 
+              src="https://res.cloudinary.com/dbrsm7rkk/image/upload/v1764433916/How_we_first_met_dcpojt.jpg" 
+              alt="How We First Met"
+              className="w-full h-auto rounded-2xl shadow-lg mt-6"
+              data-testid="img-story-section-1"
+            />
           </div>
 
           {/* Section 2: February 1, 2016 */}
@@ -93,6 +99,12 @@ const StorySection = () => {
                 To celebrate their 1st anniversary, Michael and Shaira traveled to Sky Ranch, Tagaytay, enjoying the cool air, bright lights, and each other's company. It became one of those simple yet unforgettable memories—full of joy, photos, rides, and quiet gratitude for the journey they had already begun.
               </p>
             </div>
+            <img 
+              src="https://res.cloudinary.com/dbrsm7rkk/image/upload/v1764433917/First_Anniv_ltamva.jpg" 
+              alt="Our 1st Anniversary in Tagaytay"
+              className="w-full h-auto rounded-2xl shadow-lg mt-6"
+              data-testid="img-story-section-3"
+            />
           </div>
 
           {/* Section 4: First Taste of Distance */}
@@ -111,6 +123,12 @@ const StorySection = () => {
                 It wasn't easy—may mga gabing umiiyak, may mga araw na sobrang miss nila ang isa't isa—but their love remained steady. The distance didn't weaken them; it deepened their trust, strengthened their patience, and proved how much they were willing to fight for each other.
               </p>
             </div>
+            <img 
+              src="https://res.cloudinary.com/dbrsm7rkk/image/upload/v1764433914/LDR_Pic_v8ixls.png" 
+              alt="Our First Taste of Distance"
+              className="w-full h-auto rounded-2xl shadow-lg mt-6"
+              data-testid="img-story-section-4"
+            />
           </div>
 
           {/* Section 5: The Proposal */}
