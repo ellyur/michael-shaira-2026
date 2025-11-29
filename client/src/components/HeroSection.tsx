@@ -30,7 +30,7 @@ const HeroSection = ({ audioRef, onOpenInvitation }: HeroSectionProps) => {
       >
         {/* Background Image - Prenup */}
         <img
-          src="https://res.cloudinary.com/dnlreax2z/image/upload/v1764386108/prenup3_cuocwg.jpg"
+          src="https://res.cloudinary.com/dnlreax2z/image/upload/v1764386113/prenup11_c3vupt.jpg"
           alt="Hero background - Prenup"
           className="absolute inset-0 w-full h-full object-cover"
           style={{ margin: 0, padding: 0 }}
@@ -43,7 +43,7 @@ const HeroSection = ({ audioRef, onOpenInvitation }: HeroSectionProps) => {
           {/* Tagline */}
           <div className={`transition-all duration-700 mb-4 ${(animationsEnabled && showElements) ? 'animate-fade-up opacity-100' : (!animationsEnabled ? 'opacity-100' : 'opacity-0')}`}>
             <p className="text-sm sm:text-base md:text-lg text-white font-light tracking-[0.3em] uppercase" data-testid="text-tagline" style={{ fontFamily: 'Satoshi, sans-serif', fontWeight: 300 }}>
-              WHERE LOVE BLOOMS
+              WHERE DISTANCE ENDS AND FOREVER STARTS
             </p>
           </div>
           
