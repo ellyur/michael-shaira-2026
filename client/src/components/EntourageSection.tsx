@@ -7,7 +7,7 @@ const EntourageSection = () => {
       "Ivan Cabillan Verian"
     ],
     parents: [
-      { label: "Parents of the Groom", names: ["Leonila Cabillan Verian", "Jovito Say Cabillan (proxy)", "Arnulfo Manguiat Verian (deceased)"] },
+      { label: "Parents of the Groom", names: ["Leonila Cabillan Verian", "Jovito Say Cabillan", "Arnulfo Manguiat Verian (deceased)"] },
       { label: "Parents of the Bride", names: ["Albert Baba Malicana", "Maria Christina Shappit Malicana"] }
     ],
     principalSponsors: {
@@ -68,7 +68,7 @@ const EntourageSection = () => {
       "Giselle Anne S. Malicana"
     ],
     cordSponsors: [
-      "Jude Butlig",
+      "Jude Jamora",
       "Fatima Butlig-Jamora"
     ],
     veilSponsors: [
