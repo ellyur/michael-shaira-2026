@@ -27,7 +27,6 @@ const MemorableMomentsSection = () => {
     { src: prenup4, fullSrc: prenup4, alt: "Prenup photo 4", height: "h-96" },
     { src: prenup5, fullSrc: prenup5, alt: "Prenup photo 5", height: "h-64" },
     { src: prenup6, fullSrc: prenup6, alt: "Prenup photo 6", height: "h-80" },
-    { src: prenup7, fullSrc: prenup7, alt: "Prenup photo 7", height: "h-72" },
     { src: prenup9, fullSrc: prenup9, alt: "Prenup photo 9", height: "h-96" },
     { src: prenup10, fullSrc: prenup10, alt: "Prenup photo 10", height: "h-80" },
     { src: prenup11, fullSrc: prenup11, alt: "Prenup photo 11", height: "h-72" },
