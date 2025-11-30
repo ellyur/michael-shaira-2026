@@ -52,7 +52,7 @@ const EntourageSection = () => {
     soloGroomsmen: [
       "Chester A. Javier",
       "Emmanuel Palermo",
-      "Leoj Carl Paragsa",
+      "Leoj Carl T. Paragsa",
       "Patrick Louis Cruzado"
     ],
     bridesmaids: [
