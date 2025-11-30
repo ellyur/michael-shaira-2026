@@ -220,13 +220,24 @@ const EntourageSection = () => {
                 </div>
               ))}
               
-              {/* Solo Groomsmen Centered */}
+              {/* Solo Groomsmen Two Columns */}
               <div className="mt-6">
-                {entourageData.soloGroomsmen.map((name, index) => (
-                  <p key={index} className="text-xs md:text-base lg:text-lg font-telma text-foreground mb-1" data-testid={`solo-groomsman-${index}`}>
-                    {name}
-                  </p>
-                ))}
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="text-right">
+                    {entourageData.soloGroomsmen.slice(0, 2).map((name, index) => (
+                      <p key={index} className="text-xs md:text-base lg:text-lg font-telma text-foreground mb-1" data-testid={`solo-groomsman-${index}`}>
+                        {name}
+                      </p>
+                    ))}
+                  </div>
+                  <div className="text-left">
+                    {entourageData.soloGroomsmen.slice(2).map((name, index) => (
+                      <p key={index + 2} className="text-xs md:text-base lg:text-lg font-telma text-foreground mb-1" data-testid={`solo-groomsman-${index + 2}`}>
+                        {name}
+                      </p>
+                    ))}
+                  </div>
+                </div>
               </div>
             </div>
           </div>
