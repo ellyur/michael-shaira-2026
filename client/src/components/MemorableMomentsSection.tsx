@@ -16,6 +16,7 @@ const prenup10 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386113/
 const prenup11 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386113/prenup12_sqqrhb.jpg';
 const prenup12 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386108/prenup3_cuocwg.jpg';
 const prenup13 = 'https://res.cloudinary.com/dnlreax2z/image/upload/v1764386115/prenup14_wbiini.jpg';
+const prenup14 = 'https://res.cloudinary.com/dbrsm7rkk/image/upload/v1764471546/prenup13_xymb2p.jpg';
 
 const MemorableMomentsSection = () => {
   const [selectedImage, setSelectedImage] = useState<number | null>(null);
@@ -31,7 +32,8 @@ const MemorableMomentsSection = () => {
     { src: prenup10, fullSrc: prenup10, alt: "Prenup photo 10", height: "h-80" },
     { src: prenup11, fullSrc: prenup11, alt: "Prenup photo 11", height: "h-72" },
     { src: prenup12, fullSrc: prenup12, alt: "Prenup photo 12", height: "h-64" },
-    { src: prenup13, fullSrc: prenup13, alt: "Prenup photo 13", height: "h-80" }
+    { src: prenup13, fullSrc: prenup13, alt: "Prenup photo 13", height: "h-80" },
+    { src: prenup14, fullSrc: prenup14, alt: "Prenup photo 14", height: "h-96" }
   ];
 
   return (
