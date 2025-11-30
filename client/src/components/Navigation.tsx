@@ -18,6 +18,7 @@ const Navigation = () => {
     { name: 'Venue', href: '#venue' },
     { name: 'Dress Code', href: '#dresscode' },
     { name: 'Prenup Photos', href: '#prenup-photos' },
+    { name: 'Entourage', href: '#entourage' },
     { name: 'RSVP', href: '#rsvp' }
   ];
 
