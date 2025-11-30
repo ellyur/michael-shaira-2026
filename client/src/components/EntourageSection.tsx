@@ -19,7 +19,7 @@ const EntourageSection = () => {
         "Gil Magadia",
         "Capt. Al-Nair Calderon",
         "Pantaleon V. Giangan, Jr.",
-        "Engr. Danila Verba",
+        "Engr. Danilo Verba",
         "Engr. Roel Christian Agustero",
         "Sonny Boy Regencia",
         "Patrick Quinn",
