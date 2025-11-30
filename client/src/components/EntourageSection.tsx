@@ -19,8 +19,8 @@ const EntourageSection = () => {
         "Gil Magadia",
         "Capt. Al-Nair Calderon",
         "Pantaleon V. Giangan, Jr.",
-        "Danila Verba",
-        "Roel Christian Agustero",
+        "Engr. Danila Verba",
+        "Engr. Roel Christian Agustero",
         "Sonny Boy Regencia",
         "Patrick Quinn",
         "Capt. Alvin Zuñiga",
@@ -28,7 +28,7 @@ const EntourageSection = () => {
       ],
       women: [
         "Marites Cabillan",
-        "Myrna Cabillan Dy",
+        "Engr. Myrna Cabillan Dy",
         "Leonora B. Mallari",
         "Elizabeth Magadia",
         "Helen Verian McLeod",
@@ -51,7 +51,9 @@ const EntourageSection = () => {
     ],
     soloGroomsmen: [
       "Chester A. Javier",
-      "Emmanuel Palermo"
+      "Emmanuel Palermo",
+      "Leoj Carl Paragsa",
+      "Patrick Louis Cruzado"
     ],
     bridesmaids: [
       "Ma. Angelica N. Capuz-Amoranto",
