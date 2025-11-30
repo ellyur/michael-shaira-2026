@@ -177,7 +177,7 @@ const timelineEvents: TimelineEvent[] = [
     {
         time: "6:00 PM",
         event: "RECEPTION",
-        description: "Join us in a joyful celebration at Delle Sorelle, Tayabas, Quezon.",
+        description: "Join us in a joyful celebration at Delle Sorelle, Taytay, Rizal.",
         icon: Sparkles,
         hueA: 40,
         hueB: 40,
