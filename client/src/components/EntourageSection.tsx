@@ -36,7 +36,7 @@ const EntourageSection = () => {
         "Mrs. Marlene Cabillan Verba",
         "Mrs. Mary Benpah Agustero",
         "Mrs. Myrna Agapay Regencia",
-        "Mrs. Abby Quinn",
+        "Mrs. Avelin Quinn",
         "Mrs. Eleonor Bacani Zuñiga",
         "Mrs. Lee Gonzales"
       ]
