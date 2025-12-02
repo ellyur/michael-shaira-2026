@@ -3,93 +3,93 @@ import { motion } from 'framer-motion';
 const EntourageSection = () => {
   const entourageData = {
     bestManBestWoman: [
-      "Arnulfo Cabillan Verian, Jr.",
-      "Ivan Cabillan Verian"
+      "Mr. Arnulfo Cabillan Verian, Jr.",
+      "Ms. Ivan Cabillan Verian"
     ],
     parents: [
-      { label: "Parents of the Groom", names: ["Leonila Cabillan Verian", "Jovito Say Cabillan", "Arnulfo Manguiat Verian (deceased)"] },
-      { label: "Parents of the Bride", names: ["Albert Baba Malicana", "Maria Christina Shappit Malicana"] }
+      { label: "Parents of the Groom", names: ["Mrs. Leonila Cabillan Verian", "Mr. Jovito Say Cabillan", "Mr. Arnulfo Manguiat Verian (deceased)"] },
+      { label: "Parents of the Bride", names: ["Mr. Albert Baba Malicana", "Mrs. Maria Christina Shappit Malicana"] }
     ],
     principalSponsors: {
       title: "Principal Sponsors",
       men: [
-        "Ret. PBGen Domingo Say Cabillan",
+        "Ret. Gen. Domingo Say Cabillan",
         "Engr. Alexander Dy",
-        "Almario D. Mallari",
-        "Gil Magadia",
+        "Mr. Almario Mallari",
+        "Mr. Gil Magadia",
         "Capt. Al-Nair Calderon",
-        "Pantaleon V. Giangan, Jr.",
-        "Danilo Verba",
+        "Mr. Pantaleon Giangan, Jr.",
+        "Mr. Danilo Verba",
         "Engr. Roel Christian Agustero",
-        "Sonny Boy Regencia",
-        "Patrick Quinn",
-        "Capt. Alvin Zuñiga",
-        "Leonardo Jalova"
+        "Mr. Sonny Boy Regencia",
+        "Mr. Patrick Quinn",
+        "Hon. Brgy. Kap Alvin Zuñiga",
+        "Mr. Leonardo Jalova"
       ],
       women: [
-        "Marites Cabillan",
+        "Mrs. Marites Cabillan",
         "Engr. Myrna Cabillan Dy",
-        "Leonora B. Mallari",
-        "Elizabeth Magadia",
-        "Helen Verian McLeod",
-        "Marissa G. Laida",
-        "Marlene Cabillan Verba",
-        "Mary Benpah Agustero",
-        "Myrna Agapay Regencia",
-        "Abby Quinn",
-        "Eleonor Bacani Zuñiga",
-        "Lee Gonzales"
+        "Mrs. Leonora Mallari",
+        "Mrs. Elizabeth Magadia",
+        "Mrs. Helen Verian McLeod",
+        "Mrs. Marissa Laida",
+        "Mrs. Marlene Cabillan Verba",
+        "Mrs. Mary Benpah Agustero",
+        "Mrs. Myrna Agapay Regencia",
+        "Mrs. Abby Quinn",
+        "Mrs. Eleonor Bacani Zuñiga",
+        "Mrs. Lee Gonzales"
       ]
     },
     groomsmen: [
-      "John Michael Rodriguez",
-      "Patrick Mallari",
-      "Jovie James Cabillan",
-      "Mark Lester Mi-ot",
-      "Jhone Khimber J. Cachola",
-      "Roque D. Butlig"
+      "Mr. John Michael Rodriguez",
+      "Mr. Patrick Mallari",
+      "Mr. Jovie James Cabillan",
+      "Mr. Mark Lester Mi-ot",
+      "Mr. Jhone Khimber Cachola",
+      "Mr. Roque Butlig"
     ],
     soloGroomsmen: [
-      "Chester A. Javier",
-      "Emmanuel Palermo",
-      "Leoj Carl T. Paragsa",
-      "Patrick Louis Cruzado"
+      "Mr. Chester Javier",
+      "Mr. Emmanuel Palermo",
+      "Mr. Leoj Carl Paragsa",
+      "Mr. Patrick Louis Cruzado"
     ],
     bridesmaids: [
-      "Ma. Angelica N. Capuz-Amoranto",
-      "Mary May De Guzman-Dalmacio",
-      "Charlene Logmao",
-      "Kereen Ria C. Genteroy",
-      "Angel Grace F. Pendilla",
-      "Samantha Loise S. Malicana"
+      "Mrs. Ma. Angelica Capuz-Amoranto",
+      "Mrs. Mary May De Guzman-Dalmacio",
+      "Ms. Charlene Logmao",
+      "Ms. Kereen Ria Genteroy",
+      "Mrs. Angel Grace Pendilla-Profugo",
+      "Ms. Samantha Loise Malicana"
     ],
     candleSponsors: [
-      "Dario Tambalo",
-      "Giselle Anne S. Malicana"
+      "Mr. Dario Tambalo",
+      "Ms. Giselle Anne Malicana"
     ],
     cordSponsors: [
-      "Jude Jamora",
-      "Fatima Butlig-Jamora"
+      "Mr. Jude Jamora",
+      "Mrs. Fatima Butlig-Jamora"
     ],
     veilSponsors: [
-      "Sverre Huru",
-      "Liezel V. Huru"
+      "Mr. Sverre Huru",
+      "Mrs. Liezel Huru"
     ],
     flowerGirls: [
-      "Brianne Daenerys M. Tambalo",
+      "Brianne Daenerys Tambalo",
       "Dhonne Margaurette Mangune",
       "Mariam Agustero",
-      "Jilliane Karishma M. Barnachea",
-      "Rian Vrielle B. Pascual"
+      "Jillianne Karishma Barnachea",
+      "Rian Vrielle Pascual"
     ],
-    coinBearer: ["Rob Isaac B. Jamora"],
-    bibleBearer: ["Enzo Gabriel R. Colis"],
-    ringBearer: ["Cloud V. Shimizu"],
+    coinBearer: ["Rob Isaac Jamora"],
+    bibleBearer: ["Enzo Gabriel Colis"],
+    ringBearer: ["Cloud Shimizu"],
     maidsOfHonor: [
-      "Vanesa Joy C. Bautista",
-      "Giselle Anne S. Malicana"
+      "Vanesa Joy Bautista",
+      "Giselle Anne Malicana"
     ],
-    heralds: ["Bran Aerys M. Tambalo"]
+    heralds: ["Bran Aerys Tambalo"]
   };
 
   return (
