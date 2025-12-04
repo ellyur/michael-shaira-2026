@@ -13,7 +13,7 @@ const EntourageSection = () => {
     principalSponsors: {
       title: "Principal Sponsors",
       men: [
-        "Ret. Gen. Domingo Say Cabillan",
+        "Major General Domingo Say Cabillan (Ret)",
         "Engr. Alexander Dy",
         "Mr. Almario Mallari",
         "Mr. Gil Magadia",
